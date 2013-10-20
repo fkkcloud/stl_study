@@ -1,7 +1,6 @@
 #include <cctype>
 #include <string>
 #include <iostream>
-#include <vector>
 
 using std::string;
 using std::toupper;
