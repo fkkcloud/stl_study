@@ -9,7 +9,7 @@ int main()
     {
       q1.push(i);
     }
-
+  // IT MAKES A DIFFERENCE
   std::queue<int> q1_copy;
   q1_copy = q1; // deep copy
   while( q1_copy.empty() == false )
